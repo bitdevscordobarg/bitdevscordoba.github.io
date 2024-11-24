@@ -13,7 +13,7 @@ Si te gustaría apoyar el proyecto mediante una donación, por favor, comunícat
  <img src="/bitcoinschoolar_logo.jpeg" alt="Bitcoin School Argentina Logo" style="width:20%;height:20%;border:0;">
 </a>
 
-[Bitcoin School Argentina](https://bitcoinschoolar.com) - Educación libre, imparcial, independiente y gestionada por la comunidad en Argentina sobre Bitcoin.
+[Bitcoin School Argentina](https://bitcoinschoolar.com) - Educación libre, imparcial, independiente e impulsada por la comunidad sobre Bitcoin.
 <br>
 <br>
 
@@ -21,4 +21,4 @@ Si te gustaría apoyar el proyecto mediante una donación, por favor, comunícat
 <img src="/b4os_logo.png" alt="B4OS Logo" style="width:20%;height:20%;border:0;">
 </a>
 
-[B4OS](https://www.libreriadesatoshi.com/b4os) - Programa gratuito de formación técnica para desarrolladores.
+[B4OS](https://www.libreriadesatoshi.com/b4os) - Programa gratuito de formación técnica en Bitcoin para desarrolladores.
