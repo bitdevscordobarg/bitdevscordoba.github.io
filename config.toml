@@ -11,6 +11,6 @@ highlight_code = true
 
 [extra]
 icons = [
-  {icon = "github", link = "https://github.com/bitdevscordobarg/bitdevscordoba.org"}
+  {icon = "github", link = "https://github.com/bitdevscordoba/bitdevscordoba.github.io"}
 ]
 
