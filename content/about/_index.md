@@ -37,6 +37,6 @@ con la naturaleza del proyecto. Revisa nuestra lista de [donde encontrar temas]
 para futuros seminarios.
 
 [Seminarios Socráticos]: https://en.wikipedia.org/wiki/Socratic_method#Socratic_seminar
-[bitdevscordoba.org]: https://github.com/bitdevscordobarg/bitdevscordoba.org
+[bitdevscordoba.org]: https://github.com/bitdevscordoba/bitdevscordoba.github.io/issues
 [BitDevs NYC]: https://bitdevs.org
 [donde encontrar temas]: /about/find-topics
