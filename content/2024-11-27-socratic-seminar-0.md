@@ -32,7 +32,7 @@ a [B4OS](https://www.libreriadesatoshi.com/b4os) por las bebidas.
 - Deja el espacio del encuentro tan limpio como lo encontraste.
 - Sugiere temas para el siguiente Seminario Socrático! [¿Donde encontrar temas para futuros seminarios?](/about/find-topics)
 
-### Seminario Socrático
+### Temas
 
 #### Estadísticas de la Red
 - [mempool.space](https://mempool.space/)
