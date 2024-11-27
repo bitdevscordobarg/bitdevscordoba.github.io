@@ -5,9 +5,9 @@ template = "post.html"
 
 ### Agenda
 
-18:30hs Previa con pizza y cerveza\
+18:30hs Previa con maní y cerveza\
 19:00hs Seminario Socrático donde revisamos múltiples temas relacionados con Bitcoin\
-20:00hs Continuamos en un bar
+20:00hs Cierre
 
 ### Ubicación
 
@@ -23,7 +23,7 @@ Córdoba, Argentina X5000
 
 Estamos muy felices de introducir nuestro primer [Seminario Socrático](/about)!
 Un especial agradecimiento a nuestros sponsors [Bitcoin School Argentina](https://bitcoinschoolar.com/) por el espacio y
-a [B4OS](https://www.libreriadesatoshi.com/b4os) por las bebidas y la comida.
+a [B4OS](https://www.libreriadesatoshi.com/b4os) por las bebidas.
 
 ### Recordatorios
 
