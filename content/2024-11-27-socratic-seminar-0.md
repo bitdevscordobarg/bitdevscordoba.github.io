@@ -62,11 +62,6 @@ a [B4OS](https://www.libreriadesatoshi.com/b4os) por las bebidas.
 - [Bitkey featured in Time's best inventions of 2024](https://time.com/7094838/block-bitkey/)
 - [Bitkey Whitepaper](https://x.com/jesseposner/status/1852394646997217742)
 
-#### Tether
-- [Tether crude oil purchase](https://x.com/paoloardoino/status/1854897147499397437)
-- [Tether Commended for Collaboration with Canadian Law Enforcement in Recovery of Stolen Digital Assets](https://tether.io/news/tether-commended-for-collaboration-with-canadian-law-enforcement-in-recovery-of-stolen-digital-assets/)
-- [Tether Wallet Dev Kit - X announcement](https://x.com/Tether_to/status/1856019304031846811), [Marketing site](https://wallet.tether.io/)
-
 #### Minería
 - [Introducing Proto: Building the future of bitcoin mining hardware](https://www.mining.build/blog/introducing-proto-building-the-future-of-bitcoin-mining-hardware-2/)
 
