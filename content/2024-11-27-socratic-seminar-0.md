@@ -14,7 +14,7 @@ template = "post.html"
 El evento se organiza dentro del espacio de **Bitcoin School Argentina**:
 
 Bv. Chacabuco 625\
-2 A, Salón Principal\
+1º piso, Salón Principal\
 Córdoba, Argentina X5000
 
 [Map](https://maps.app.goo.gl/qKsJHTbN6XiK1h717) 
