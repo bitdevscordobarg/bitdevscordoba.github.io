@@ -243,7 +243,7 @@ a [B4OS](https://www.libreriadesatoshi.com/b4os) por las bebidas y el soporte tÃ
 - [Package validation: accept packages of size 1](https://github.com/bitcoin/bitcoin/pull/31096)
 - [rpc: Remove submitblock pre-checks](https://github.com/bitcoin/bitcoin/pull/31175)
 - [Improve parallel script validation error debug logging](https://github.com/bitcoin/bitcoin/pull/31112)
-- ðŸ‘‰ [dbwrapper: Bump LevelDB max file size to 32 MiB to avoid system slowdown from high disk cache flush rate](https://github.com/bitcoin/bitcoin/pull/30039)
+- [dbwrapper: Bump LevelDB max file size to 32 MiB to avoid system slowdown from high disk cache flush rate](https://github.com/bitcoin/bitcoin/pull/30039)
 - [rpc: add getdescriptoractivity](https://github.com/bitcoin/bitcoin/pull/30708)
 - [policy: ephemeral dust followups](https://github.com/bitcoin/bitcoin/pull/31279)
 - [bench: add support for custom data directory](https://github.com/bitcoin/bitcoin/pull/31000)
